@@ -11,7 +11,7 @@ A large dataset of video game reviews was used for this analysis. The data was f
 From the original dataset of video game reviews, a set of 40,565 reviews was selected for reliability. Of those reviews, only 94 reviews were from Vine members. Of those 94 reviews, 48 of them, or 51%, were 5 star reviews. This seems like a very high percentage, and that becomes more apparent when we look at the second data set. 
 
 Of the 40471 NonVine reviews, 15,663 were 5 star ratings. This represents only 38% of the total NonVine reviews, a 13% difference. This indicates that there is likely some bias in the Vine reviews, and certainly that further investigation is warranted.
-![This is an image](Images Deliverable 2/Vine_reviews.png)
+![This is an image](https://github.com/yvoatelep/Amazon_Vine_Analysis/blob/main/Images%20Deliverable%202/Vine_reviews.png)
 
 ## Summary
 This initial investigation indicates some bias in the Vine reviews and needs to be repeated on other data sets. 
